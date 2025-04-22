@@ -1,28 +1,28 @@
-# 🔐 Password Power Tool
+# 🔐 **Password Power Tool** 🛠️
 
-Welcome to the **Password Power Tool** – a stylish, easy-to-use app designed to help you generate strong passwords, check their strength, and get smart suggestions to enhance your security. With AI-based tips, fun animations, and interactive features, this tool makes password management more engaging and secure! 🚀
+Welcome to the **Password Power Tool** – a stylish, easy-to-use app designed to help you generate strong passwords, check their strength, and get smart suggestions to enhance your security. With AI-based tips, fun animations, and interactive features, this tool makes password management more engaging and secure! 🚀✨
 
-The app includes both **Advanced** and **Basic** password generators and checkers, so you can choose the one that best suits your needs. Whether you need a simple tool for quick checks or a more feature-rich experience, this app has got you covered.
+The app includes both **Advanced** and **Basic** password generators and checkers, so you can choose the one that best suits your needs. Whether you need a simple tool for quick checks or a more feature-rich experience, this app has got you covered. 💡🔑
 
 [🎯 **Live Demo**](https://passwordstrengthbymhz.streamlit.app/)
 
 ---
 
-## 🛠️ Features
+## 🛠️ **Features** ✨
 
-### 🔹 **Advanced Password Generator & Analyzer**
+### 🔹 **Advanced Password Generator & Analyzer** 💪
 - 🔢 **Customizable password length** (8–32 characters)
-- 🔠 **Options to include uppercase, lowercase, numbers, and symbols**
-- 🚀 **Live strength checker**
+- 🔠 **Options to include uppercase, lowercase, numbers, and symbols** 
+- 🚀 **Live strength checker** 
 - 📊 **Strength score & tips for improvement**
 - 🤖 **AI-based password suggestions**
 - 📚 **Activity history tracking**
-- 📥 **Download PDF reports of password activities**
+- 📥 **Download PDF reports of password activities** 
 - 🧹 **One-click history clear**
 - 🔐 **Lottie animations & fun effects** (toast, snow, balloons)
-- 💻 **Responsive and clean UI**
+- 💻 **Responsive and clean UI** 🌐
 
-### 🔸 **Basic Password Generator & Checker**
+### 🔸 **Basic Password Generator & Checker** 🧰
 - 🔑 **Simple password generator** with default options
 - 🔍 **Basic password strength checker** (Length, Uppercase, Lowercase, Digits)
 - ✅ **Strength feedback** (weak, medium, strong)
@@ -30,7 +30,7 @@ The app includes both **Advanced** and **Basic** password generators and checker
 
 ---
 
-## 🎬 Live Preview (Animations)
+## 🎬 **Live Preview** (Animations) 🌟
 
 ![Intro Animation](https://assets10.lottiefiles.com/packages/lf20_ydo1amjm.json)  
 *Intro animation when the app loads.*
@@ -40,7 +40,7 @@ The app includes both **Advanced** and **Basic** password generators and checker
 
 ---
 
-## 💻 Tech Stack
+## 💻 **Tech Stack** 🖥️
 
 - 🐍 **Python 3**
 - 🌟 **Streamlit** for app interface
@@ -50,6 +50,7 @@ The app includes both **Advanced** and **Basic** password generators and checker
 - ☁️ **Lottie API for online animations**
 
 ---
-## 👨‍💻 About the Creator
+
+## 👨‍💻 About the Creator 💼
 ### Made with ❤️ by MUHAMMAD HAMMAD ZUBAIR.
 ### Powered by Python 🐍 & Streamlit 🌟.
