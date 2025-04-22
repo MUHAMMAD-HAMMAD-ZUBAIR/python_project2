@@ -30,15 +30,6 @@ The app includes both **Advanced** and **Basic** password generators and checker
 
 ---
 
-## 🎬 **Live Preview** (Animations) 🌟
-
-![Intro Animation](https://assets10.lottiefiles.com/packages/lf20_ydo1amjm.json)  
-*Intro animation when the app loads.*
-
-![Lock Animation](https://assets2.lottiefiles.com/packages/lf20_7wkc7spn.json)  
-*Lock animation for added visual appeal.*
-
----
 
 ## 💻 **Tech Stack** 🖥️
 
